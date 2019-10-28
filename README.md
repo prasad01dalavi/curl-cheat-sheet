@@ -1,6 +1,6 @@
 # Curl Tutorial
 
-###Curl Basic Commands
+### Curl Basic Commands
 
 ```
 curl -h                                               # list of arguments/flags
