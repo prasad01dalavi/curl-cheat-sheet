@@ -9,6 +9,6 @@ curl -i <GET request api endpoint>                    # includes headers informa
 curl -o filename.ext <GET request api endpoint> -i    # write the output(along with header) into the file instead of stdour
 curl -O <download path>                               # download file using curl with remote file name
 
-
-
+# POST json data (-X is the request type)
+curl -H "Content-Type: application/json" -X POST -d '{"curl": "rocks"}' <API endpoint>
 ```
