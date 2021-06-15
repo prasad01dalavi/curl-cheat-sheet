@@ -1,4 +1,4 @@
-# Curl Tutorial
+# Curl Cheat Sheet
 
 ### Curl Basic Commands
 
